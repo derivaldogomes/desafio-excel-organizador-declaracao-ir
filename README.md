@@ -1,2 +1,2 @@
-# desafio-excel-organizador-declaracao-ir
-Este desafio faz parte do Curso Santander - Excel com Inteligência Artificial, onde o objetivo é criar uma ferramenta no Excel que ajude a organizar e reunir informações essenciais para a declaração de imposto de renda.
+# Organizador de Declaração de Imposto de Renda
+Este desafio faz parte do Curso Santander - Excel com Inteligência Artificial, onde o objetivo é criar uma ferramenta no Excel que ajude a organizar e reunir informações essenciais para a declaração de imposto de renda. Uma planilha basicamente simples, pois serve para organização de dados informativos necessários preparação da declaração de IR, mas que foi muito importante para nosso conhecimento, pois aprendemos a mesclar várias fórmulas, bem como construir um dashboard bem elaborado e prático.
